@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @qhtjd2131
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning React!
+- 👋 Hi
 
 
 <!---
